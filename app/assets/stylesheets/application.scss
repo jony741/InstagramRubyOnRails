@@ -12,7 +12,8 @@
  */
  @import 'bootstrap'; // assuming you changed to SCSS from CSS
  @import "font-awesome";
- 
+ @import "users";
+
  .container{
     max-width: 1000px;
   }
